@@ -63,9 +63,6 @@ Sentence embeddings convert text into dense vector representations that capture 
 * Query results
 * Ranked matching sentences
 
- Code Reference: 
-
----
 
 4 Sentence Clustering using K-Means
 
@@ -79,9 +76,7 @@ Sentence embeddings convert text into dense vector representations that capture 
 
 * Cluster-wise grouped sentences
 
- Code Reference: 
 
----
 
 5 FAISS Vector Search System
 
