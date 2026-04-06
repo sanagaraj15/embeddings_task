@@ -185,5 +185,3 @@ This project demonstrates how embeddings generated from different sentences can 
 
  👨‍💻 Author
  Nagaraj S A
-
-Final Year Project – NLP / AI Domain
